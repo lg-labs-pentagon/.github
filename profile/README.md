@@ -30,7 +30,7 @@ For more information, check this pages https://lufgarciaqu.medium.com.
 
 ## ⚖️ License
 
-The MIT License (MIT). Please see [License][LIC] for more information.
+The GNU General Public License v3.0 License (GNU). Please see [License][LIC] for more information.
 
 
 [0]: https://img.shields.io/badge/LgLabs-community-blue?style=flat-square
@@ -41,6 +41,6 @@ The MIT License (MIT). Please see [License][LIC] for more information.
 
 [4]: https://github.com/lg-labs-pentagon/lg5-spring
 
-[LIC]: LICENSE
+[LIC]: ../LICENSE
 
 [img1]: https://github.com/lg-labs-pentagon/lg-labs-boot-parent/assets/105936384/31c27db8-1e77-478d-a38e-7acf6ba2571c
